@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ranjithrahae
+- 👋 Hi, I’m @Ranjith G
 - 👀 I’m interested in
 - 🌱 I’m currently learning Javascript
 -   reach me through ranjithrahae@gmail.com
