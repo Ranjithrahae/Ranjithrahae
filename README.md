@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Ranjith G
-- 
 - 🌱 I’m currently learning Javascript
 -   reach me through ranjithrahae@gmail.com
