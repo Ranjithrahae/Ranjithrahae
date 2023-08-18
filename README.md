@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ranjith G
+- 👋 Hi, I’m Ranjith G
 - 👨‍🎓Student at Sastra university
 - 👨‍💻Frontend Developer
 - 😎skilled in using javaScript,Angular,Html,Css,Bootstrap,C,C++ and Java
