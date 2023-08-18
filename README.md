@@ -1,3 +1,6 @@
 - 👋 Hi, I’m @Ranjith G
-- 🌱 I’m currently learning Javascript
--   reach me through ranjithrahae@gmail.com
+- 👨‍🎓Student at Sastra university
+- 👨‍💻Frontend Developer
+- 😎skilled in javaScript,Angular,Html,Css,Bootstrap,C,C++ and Java
+- 🌱 I’m currently learning ReactJs
+- 🤝reach me through ranjithrahae@gmail.com
