@@ -3,6 +3,6 @@
 - Mechatronics Engineer
 - 👨‍💻Frontend Developer
 - 🧑‍💼Visit my portfolio https://ranjith-rahae.netlify.app/
-- 😎skilled in using javaScript,Angular,Html,Css,Bootstrap,C,C++ and Java
+- 😎skilled in using javaScript,Angular,Html,Css,Bootstrap,C,C++,Python and Java
 - 🌱 I’m currently learning ReactJs
 - 🤝reach me through ranjithrahae@gmail.com
